@@ -1,5 +1,5 @@
 # Rocket Landing Game
-This is a simple game where you have to land a rocket on a platform. The game is written in Python using the Android.
+This is a simple game where you have to land a rocket on a platform. The game is written in Android with Java.
 
 ## How to play
 - Use the left and right arrow keys to move the rocket.
